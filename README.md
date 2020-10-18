@@ -10,6 +10,7 @@ Table of contents
    * [Setting up the Project](#setting-up-the-project)
    * [Goal](#goal)
    * [What I learnt](#what-I-learnt)
+   * [Contributing](#contributing)
    * [License](#license)
 <!--te-->
 
@@ -59,6 +60,10 @@ samples, guidance on mobile development, and a full API reference.
 - About the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
+
+## Contributing
+
+If you wish to contribute a change to any of the existing features in this repo, please review our [contribution guide](https://github.com/Kunal1198/Clima-Flutter/blob/contributing/CONTRIBUTING.md)
 
 ## License
   This project has been licensed under **MIT** License.See `License` for more information.
